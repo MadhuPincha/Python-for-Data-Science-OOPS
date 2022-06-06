@@ -1,0 +1,15 @@
+2022-06-06 15:55:24,382, invalid literal for int() with base 10: 'vfg'
+Traceback (most recent call last):
+  File "<ipython-input-5-6e96a5434e52>", line 7, in <module>
+    n=int(input('enter number '))
+ValueError: invalid literal for int() with base 10: 'vfg'
+2022-06-06 15:55:29,991, invalid literal for int() with base 10: 'grtg'
+Traceback (most recent call last):
+  File "<ipython-input-5-6e96a5434e52>", line 7, in <module>
+    n=int(input('enter number '))
+ValueError: invalid literal for int() with base 10: 'grtg'
+2022-06-06 16:01:14,502, invalid literal for int() with base 10: 'verv'
+Traceback (most recent call last):
+  File "<ipython-input-5-a2975956ea4e>", line 5, in <module>
+    n=int(input('enter number '))
+ValueError: invalid literal for int() with base 10: 'verv'
